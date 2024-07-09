@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 
-import 'swiper/css'; 
+
 import datainfo from './data/db.json';
 
 
